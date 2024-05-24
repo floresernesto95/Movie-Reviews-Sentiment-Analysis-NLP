@@ -1,4 +1,4 @@
-## Project Description: Movie Reviews Sentiment Analysis
+## Movie Reviews Sentiment Analysis
 
 ### Overview
 
