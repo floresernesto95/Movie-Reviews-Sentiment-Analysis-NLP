@@ -1,5 +1,9 @@
 ## Movie Reviews Sentiment Analysis
 
+<p align="center">
+  <img src="https://github.com/floresernesto95/Images/blob/main/portfolio%20-%20sentiment%20analysis%202.png?raw=true"/>
+</p>
+
 ### Overview
 
 The **Movie Reviews Sentiment Analysis** project utilizes Natural Language Processing (NLP) techniques to analyze and determine the sentiment of movie reviews. This project is designed to predict whether a given movie review is positive or negative. The analysis is performed using a pre-trained Naive Bayes model and a TF-IDF vectorizer, integrated into an interactive web application built with Streamlit.
